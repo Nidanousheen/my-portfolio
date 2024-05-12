@@ -26,7 +26,7 @@ The *Creative Showcase* portfolio website is a dynamic platform designed to high
 
 5. *Contact Information*:
    - contact number, e-mail.
-   - Include links to my professional social media profiles (LinkedIn, GitHub, etc.)
+   - my professional social media profiles (LinkedIn, GitHub, etc.)
 ## Phases of Work
 **Design and Wireframing (Week 1)*:
 1. Defined the desired appearance and functionality of the website.
