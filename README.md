@@ -45,5 +45,5 @@ The *Creative Showcase* portfolio website is a dynamic platform designed to high
 3. Deployed the website to the hosting server for public access.
    
 **Deployment and Launch (Week 4)*:
-    Host the websit on GitHub.
+1. Host the websit on GitHub.
    
